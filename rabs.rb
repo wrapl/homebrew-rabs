@@ -1,7 +1,7 @@
 class Rabs < Formula
 	desc "General purpose imperative build system"
 	homepage "https://wrapl.github.io/tools/rabs.xhtml"
-	url "https://github.com/wrapl/rabs.git", :tag => "v2.28.1"
+	url "https://github.com/wrapl/rabs.git", :tag => "v2.34.5"
 	depends_on "bdw-gc"
 
 	def install
